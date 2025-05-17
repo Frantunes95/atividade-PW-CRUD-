@@ -1,4 +1,4 @@
 <?php
-header("Location: ler.php");
+header("Location: criar.php");
 exit;
 ?>
